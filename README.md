@@ -1,1 +1,2 @@
 # odin-recipes
+This current project I will be creating a recipe webpage on how to make a personal recipe of mine, my chocolate chunk cookies, as well as two other recipes. The creation of this recipe webpage is being used to showcase and demonstrate my knowledge and skills in foundational HTML.
