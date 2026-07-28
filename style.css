@@ -24,17 +24,56 @@ h1 {
     color:plum;
     margin-bottom: 50px;
 }
+h2 {
+    color:plum;
+    text-align: center;
+
+}
 
 ul {
-    display: block;
     list-style-type: none;
     text-align:center;
 }
 
-li {
+.link {
     display: inline-block;
     margin: 10px;
     background-color: #3e2e55;
     border-radius: 8px;
     overflow:hidden;
+    text-align: center;
+    
+}
+.text.text-2{
+    color:#3e2e55;
+}
+.text-2 {
+    text-align: center;
+}
+.congrats {
+    color: plum;
+    text-align:center;
+}
+li {
+    margin-bottom: 10px;
+}
+.link-home {
+    display: block;
+    margin: 10px auto;
+    background-color: #3e2e55;
+    border-radius: 8px;
+    overflow:hidden;
+    text-align: center
+}
+ul.text {
+    text-align:left;
+    margin-left: 25px;
+}
+img {
+    display:block;
+    margin: 30px auto;
+    border-radius: 15px;
+    max-width:100%;
+    height:auto;
+    border: 6px double #b19cd9;
 }
