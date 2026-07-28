@@ -4,7 +4,7 @@ body {
     font-family: "Century Gothic", "URW Gothic", sans-serif;
     background-color:lavenderblush;
 }
-a {
+.link.link-odin-recipes, .link-home {
     display: block;
     width: 200px;
     height: 100px;
